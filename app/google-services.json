@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206550730776",
+    "project_id": "guruwithapi",
+    "storage_bucket": "guruwithapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206550730776:android:afad49c65946377de1db6d",
+        "android_client_info": {
+          "package_name": "com.example.guruwithapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206550730776-lielac0gd0ehkhraafpbt9ac9d9m5iia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUYSTf_O1DGzh9neK7_rHfBv2R7YNXac4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206550730776-lielac0gd0ehkhraafpbt9ac9d9m5iia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
